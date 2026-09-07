@@ -162,7 +162,7 @@ futures-lite = { version = "2", default-features = false, features = ["std"] }
 # retained ScreenCast session.
 async-io = "2"
 libc = "0.2"
-smithay-client-toolkit = { version = "0.20", default-features = false }
+smithay-client-toolkit = { version = "0.21", default-features = false }
 
 [workspace.lints.rust]
 # An unimplemented contract must still compile. Phase 0 is deliberately a tree
