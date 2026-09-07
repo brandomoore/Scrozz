@@ -3979,9 +3979,9 @@ dependencies = [
 
 [[package]]
 name = "oxideav-mkv"
-version = "0.0.9"
+version = "0.0.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f8841f155fb729296f6162a143b8509074ff6a2a1b4c09a2b6576c204a50c482"
+checksum = "421e81aef0976707b37573dd8d1072bff3433169911582275bae043efeb325a2"
 dependencies = [
  "oxideav-core",
 ]
