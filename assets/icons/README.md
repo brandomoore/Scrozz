@@ -19,7 +19,7 @@ truth. Do not edit the PNGs, the `.icns` or the `.ico` by hand — regenerate th
 ## The design
 
 The mark is **four crop-mark corners around the `ozz` family face** — the same
-pixel grid, `zz` eyes and smile as Mozz, Plozz, Hozz and Twozz. The corners are
+pixel grid, `zz` eyes and smile as Mozz, Plozz, Hozz and Strozz. The corners are
 what make it specifically a *screenshot* app: they read as a selection region
 before you have consciously identified them.
 

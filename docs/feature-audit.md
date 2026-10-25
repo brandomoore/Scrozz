@@ -548,7 +548,7 @@ Parity alone gives no reason to switch. Candidates, none committed:
 - **Scriptable/CLI-first** — a headless `scrozz capture --area ... --out ...` makes the app
   automatable and, critically, testable in CI.
 - **Sync across machines via BYO storage** — settings and history, no vendor account.
-- **Family integration** — shared design language and shared infrastructure with Plozz / Mozz / Hozz / Twozz.
+- **Family integration** — shared design language and shared infrastructure with Plozz / Mozz / Hozz / Strozz.
 
 ---
 
